@@ -8,7 +8,9 @@ Funcionalidades
 -Exibir frases aleatórias de séries.
 
 -Permitir que o front-end consuma dados fornecidos pela API do back-end.
+
        ---------------------------------------------------------------------------
+
 Tecnologias Utilizadas
 -Back-end: Java, Spring Boot, Spring Data JPA
 
