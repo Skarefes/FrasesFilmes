@@ -4,19 +4,29 @@ Este é um projeto simples que utiliza uma aplicação full-stack que exibe fras
 O projeto foi desenvolvido com o curso da ALURA com JAVA e SPRING BOOT, junto com HTML CSS e JS
 
 Funcionalidades
--Exibir frases aleatórias de séries.
--Permitir que o front-end consuma dados fornecidos pela API do back-end.
 
+-Exibir frases aleatórias de séries.
+
+-Permitir que o front-end consuma dados fornecidos pela API do back-end.
+       ---------------------------------------------------------------------------
 Tecnologias Utilizadas
 -Back-end: Java, Spring Boot, Spring Data JPA
+
 -Banco de Dados: (Ex: MySQL, PostgreSQL ou o que você estiver usando)
+
 -Front-end: HTML, CSS, JavaScript
+
 -Configuração de CORS: Habilitado para comunicação entre front e back
+
 Como Executar
+
 -Pré-requisitos
+
 -Java 17+ e Maven instalados.
+
 -Banco de dados configurado e atualizado com as tabelas necessárias (migrar tabelas se necessário).
 
+        ---------------------------------------------------------------------------
 Passo a Passo
 1 Clone o repositório: git clone https://github.com/usuario/repositorio.git
 cd repositorio
@@ -32,7 +42,7 @@ cd repositorio
 6 Teste a funcionalidade, verificando se a aplicação exibe as frases corretamente.
 
 
-
+      ---------------------------------------------------------------------------
 
 FRASES USADAS:
 
