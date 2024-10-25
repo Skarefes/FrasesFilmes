@@ -20,16 +20,22 @@ Como Executar
 Passo a Passo
 1 Clone o repositório: git clone https://github.com/usuario/repositorio.git
 cd repositorio
+
 2 Configure as dependências e inicialize o banco de dados.
+
 3 Execute o back-end: mvn spring-boot:run
+
 4 Coloque as frases, nomes e imagem que vc quiser. Ao final irei colocar as frases que eu usei no repositorio
+
 5 Abra o front-end em seu navegador, apontando para a porta que seu VSCode irá te mandar
+
 6 Teste a funcionalidade, verificando se a aplicação exibe as frases corretamente.
 
 
 
 
 FRASES USADAS:
+
 insert into frases(id, frase, personagem, titulo, poster) values (1, 'Amigos não mentem', 'Eleven', 'Stranger things', 'https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg');
 insert into frases(id, frase, personagem, titulo, poster) values (2, 'Bem-vinda ao mundo real. É uma droga. Você vai amar', 'Monica', 'Friends', 'https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg');
 insert into frases(id, frase, personagem, titulo, poster) values (3, 'Não é uma mentira se você acreditar nela', 'George Contanza', 'Seinfeld', 'https://m.media-amazon.com/images/M/MV5BZjZjMzQ2ZmUtZWEyZC00NWJiLWFjM2UtMzhmYzZmZDcxMzllXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg');
